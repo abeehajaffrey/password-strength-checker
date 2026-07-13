@@ -1,3 +1,4 @@
+PROJECT 1:
 1. Password Strength Checker:
 
 2. Description
